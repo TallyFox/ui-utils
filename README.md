@@ -1,3 +1,7 @@
+# READ CAREFULLY
+
+Sole purpose of this repo is publishing it on npm to get rid of bower in our dev workflow.
+
 # UI.Utils
 
 The companion suite for AngularJS.
